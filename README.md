@@ -1,3 +1,4 @@
+<img width="1434" alt="emojipedia" src="https://user-images.githubusercontent.com/71868334/209309557-b92a9e71-e924-44bc-b71b-d3792b1837c1.png">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
